@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="welcome">Добро пожаловать в разработку на андроид!</string>
+    <string name="deitel_logo">Логотип жука с двумя большими пальцами вверх</string>
+</resources>

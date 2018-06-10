@@ -29,6 +29,7 @@
         android:layout_height="0dp"
         android:layout_gravity="center_horizontal"
         android:layout_weight="1"
+        android:contentDescription="@string/deitel_logo"
         app:srcCompat="@drawable/bug" />
 
 </LinearLayout>
